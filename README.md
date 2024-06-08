@@ -2,5 +2,5 @@
 Java (Maven) application for tracking time on the job
 
 Time tracker
-hello, how r u?
+hello, how  u?
 Good day Students!!!
